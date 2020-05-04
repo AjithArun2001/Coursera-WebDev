@@ -4,6 +4,7 @@
 }
 
 body{
+    font-size: 110%;
     margin: 0;
     padding: 20px;
     background-color: wheat;
@@ -11,12 +12,13 @@ body{
 
 
 h1{
+    font-size: 1.75em;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .title{
-    font-size: 20px;
+    font-size: 1.25em;
     display: inline;
     border-bottom: 1px solid black;
     border-top: none ;
@@ -43,6 +45,7 @@ h1{
 
 
 p{
+    padding-top: 10px;
     color: white;
     font-family: "Courier New", Courier, monospace;
     overflow-wrap: break-word;

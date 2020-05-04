@@ -18,9 +18,9 @@ h1{
 .title{
     font-size: 20px;
     display: inline;
-    border-bottom: 3px solid black;
+    border-bottom: 1px solid black;
     border-top: none ;
-    border-left:3px solid black;
+    border-left:1px solid black;
     border-right:none;
     background-color:pink;
     text-align: center;
@@ -37,7 +37,7 @@ h1{
 .inner{
     padding: 20px;
     background-color: grey;
-    border: 3px solid black;
+    border: 1px solid black;
     position: relative;
 }
 
